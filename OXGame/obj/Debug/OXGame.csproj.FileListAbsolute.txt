@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\OXGame\OXGame\bin\Debug\OXGame.exe.config
+C:\Users\Alex\source\repos\OXGame\OXGame\bin\Debug\OXGame.exe
+C:\Users\Alex\source\repos\OXGame\OXGame\bin\Debug\OXGame.pdb
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame_MarkupCompile.cache
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame_MarkupCompile.lref
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame.g.resources
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame.Properties.Resources.resources
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame.exe
+C:\Users\Alex\source\repos\OXGame\OXGame\obj\Debug\OXGame.pdb
